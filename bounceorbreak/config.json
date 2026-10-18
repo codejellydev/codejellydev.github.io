@@ -2,10 +2,10 @@
   "schemaVersion": 1,
   "latestVersion": "0.1.3",
   "notice": {
-    "id": "2026-10-test",
-    "title": "Hello!",
-    "body": "Remote notices are now live. Thanks for testing.",
+    "id": "",
+    "title": "",
+    "body": "",
     "from": "",
-    "until": "2026-10-26"
+    "until": ""
   }
 }
